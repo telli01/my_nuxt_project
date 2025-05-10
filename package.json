@@ -17,5 +17,13 @@
     "nuxt-auth-utils": "^0.5.20",
     "vue": "^3.5.13",
     "vue-router": "^4.5.1"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-darwin-arm64": "^4.32.0",
+    "@rollup/rollup-darwin-x64": "^4.32.0",
+    "@rollup/rollup-linux-arm64-gnu": "^4.32.0",
+    "@rollup/rollup-linux-x64-gnu": "^4.32.0",
+    "@rollup/rollup-win32-arm64-msvc": "^4.32.0",
+    "@rollup/rollup-win32-x64-msvc": "^4.32.0"
   }
 }
